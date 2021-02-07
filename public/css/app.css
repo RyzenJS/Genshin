@@ -10878,6 +10878,38 @@ video {
   flex-direction: column-reverse;
 }
 
+.hover\:flex-row:hover {
+  flex-direction: row;
+}
+
+.hover\:flex-row-reverse:hover {
+  flex-direction: row-reverse;
+}
+
+.hover\:flex-col:hover {
+  flex-direction: column;
+}
+
+.hover\:flex-col-reverse:hover {
+  flex-direction: column-reverse;
+}
+
+.focus\:flex-row:focus {
+  flex-direction: row;
+}
+
+.focus\:flex-row-reverse:focus {
+  flex-direction: row-reverse;
+}
+
+.focus\:flex-col:focus {
+  flex-direction: column;
+}
+
+.focus\:flex-col-reverse:focus {
+  flex-direction: column-reverse;
+}
+
 .flex-wrap {
   flex-wrap: wrap;
 }
@@ -41500,6 +41532,38 @@ video {
     flex-direction: column-reverse;
   }
 
+  .sm\:hover\:flex-row:hover {
+    flex-direction: row;
+  }
+
+  .sm\:hover\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:hover\:flex-col:hover {
+    flex-direction: column;
+  }
+
+  .sm\:hover\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+
+  .sm\:focus\:flex-row:focus {
+    flex-direction: row;
+  }
+
+  .sm\:focus\:flex-row-reverse:focus {
+    flex-direction: row-reverse;
+  }
+
+  .sm\:focus\:flex-col:focus {
+    flex-direction: column;
+  }
+
+  .sm\:focus\:flex-col-reverse:focus {
+    flex-direction: column-reverse;
+  }
+
   .sm\:flex-wrap {
     flex-wrap: wrap;
   }
@@ -72041,6 +72105,38 @@ video {
   }
 
   .md\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .md\:hover\:flex-row:hover {
+    flex-direction: row;
+  }
+
+  .md\:hover\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+
+  .md\:hover\:flex-col:hover {
+    flex-direction: column;
+  }
+
+  .md\:hover\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+
+  .md\:focus\:flex-row:focus {
+    flex-direction: row;
+  }
+
+  .md\:focus\:flex-row-reverse:focus {
+    flex-direction: row-reverse;
+  }
+
+  .md\:focus\:flex-col:focus {
+    flex-direction: column;
+  }
+
+  .md\:focus\:flex-col-reverse:focus {
     flex-direction: column-reverse;
   }
 
@@ -102588,6 +102684,38 @@ video {
     flex-direction: column-reverse;
   }
 
+  .lg\:hover\:flex-row:hover {
+    flex-direction: row;
+  }
+
+  .lg\:hover\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:hover\:flex-col:hover {
+    flex-direction: column;
+  }
+
+  .lg\:hover\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+
+  .lg\:focus\:flex-row:focus {
+    flex-direction: row;
+  }
+
+  .lg\:focus\:flex-row-reverse:focus {
+    flex-direction: row-reverse;
+  }
+
+  .lg\:focus\:flex-col:focus {
+    flex-direction: column;
+  }
+
+  .lg\:focus\:flex-col-reverse:focus {
+    flex-direction: column-reverse;
+  }
+
   .lg\:flex-wrap {
     flex-wrap: wrap;
   }
@@ -133132,6 +133260,38 @@ video {
     flex-direction: column-reverse;
   }
 
+  .xl\:hover\:flex-row:hover {
+    flex-direction: row;
+  }
+
+  .xl\:hover\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+
+  .xl\:hover\:flex-col:hover {
+    flex-direction: column;
+  }
+
+  .xl\:hover\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+
+  .xl\:focus\:flex-row:focus {
+    flex-direction: row;
+  }
+
+  .xl\:focus\:flex-row-reverse:focus {
+    flex-direction: row-reverse;
+  }
+
+  .xl\:focus\:flex-col:focus {
+    flex-direction: column;
+  }
+
+  .xl\:focus\:flex-col-reverse:focus {
+    flex-direction: column-reverse;
+  }
+
   .xl\:flex-wrap {
     flex-wrap: wrap;
   }
@@ -163673,6 +163833,38 @@ video {
   }
 
   .\32xl\:flex-col-reverse {
+    flex-direction: column-reverse;
+  }
+
+  .\32xl\:hover\:flex-row:hover {
+    flex-direction: row;
+  }
+
+  .\32xl\:hover\:flex-row-reverse:hover {
+    flex-direction: row-reverse;
+  }
+
+  .\32xl\:hover\:flex-col:hover {
+    flex-direction: column;
+  }
+
+  .\32xl\:hover\:flex-col-reverse:hover {
+    flex-direction: column-reverse;
+  }
+
+  .\32xl\:focus\:flex-row:focus {
+    flex-direction: row;
+  }
+
+  .\32xl\:focus\:flex-row-reverse:focus {
+    flex-direction: row-reverse;
+  }
+
+  .\32xl\:focus\:flex-col:focus {
+    flex-direction: column;
+  }
+
+  .\32xl\:focus\:flex-col-reverse:focus {
     flex-direction: column-reverse;
   }
 
