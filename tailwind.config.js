@@ -12,7 +12,11 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: {
+
+      flexDirection: ['hover', 'focus'],
+
+    },
   },
   plugins: [],
 }
