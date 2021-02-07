@@ -61,7 +61,7 @@
   <div class="flex flex-row center justify-center">
     <div class="grid grid-cols-6 md:grid-rows-6 gap-5 mt-20">
 
-      <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+      <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Xiao.png" alt="Xiao"> <!--class="transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110"-->
@@ -69,7 +69,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Amber.png" alt="Amber">
@@ -77,7 +77,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Hydro">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Barbara.png" alt="Barbara">
@@ -85,7 +85,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Electro">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Beidou.png" alt="Beidou">
@@ -93,7 +93,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Bennett.png" alt="Bennet">
@@ -101,7 +101,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Chongyun.png" alt="Chongyun">
@@ -109,7 +109,7 @@
             </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Diluc.png" alt="Diluc">
@@ -117,7 +117,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Diona.png" width="106" height="106" alt="Diona">
@@ -125,7 +125,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Electro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Fischl.png" alt="Fischl">
@@ -133,7 +133,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Jean.png" alt="Jean">
@@ -141,7 +141,7 @@
           </a>
         </div>
         
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Kaeya.png" alt="Kaeya">
@@ -149,7 +149,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Electro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Keqing.png" alt="Keqing">
@@ -157,7 +157,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Klee.png" alt="Klee">
@@ -165,7 +165,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Electro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Lisa.png" alt="Lisa">
@@ -173,7 +173,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Hydro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Mona.png" alt="Mona">
@@ -181,7 +181,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Geo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Ningguang.png" alt="Ningguang">
@@ -189,7 +189,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Geo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Noelle.png" alt="Noelle">
@@ -197,7 +197,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Qiqi.png" alt="Qiqi">
@@ -205,7 +205,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Electro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Razor.png" alt="Razor">
@@ -213,7 +213,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Sucrose.png" alt="Sucrose">
@@ -221,7 +221,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Hydro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Tartaglia.png" alt="Tartaglia">
@@ -229,7 +229,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Traveler (Anemo).png" alt="Traveler Anemo">
@@ -237,7 +237,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Geo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Traveler (Geo).png" alt="Traveler Geo">
@@ -245,7 +245,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Venti.png" alt="Venti">
@@ -253,7 +253,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Xiangling.png" alt="Xiangling">
@@ -261,7 +261,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Hydro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Xingqiu.png" alt="Xingqiu">
@@ -269,7 +269,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Xinyan.png" width="106" height="106" alt="Xinyan">
@@ -277,7 +277,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Geo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Zhongli.png" width="106" height="106" alt="Zhongli">
@@ -285,7 +285,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Geo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Albedo.png" alt="Albedo">
@@ -293,7 +293,7 @@
           </a>
         </div>
 
-        <div class="bg-gray-300 p-2 rounded hover:bg-gray-600">
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
           <a href="#">
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Ganyu.png" alt="Ganyu">
@@ -301,18 +301,10 @@
           </a>
         </div>
 
-        
-
-
-
-
       </div>
     </div>
   </main>
 
 
-
-
-    
 </body>
 </html>
