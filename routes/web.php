@@ -21,6 +21,7 @@ Route::get('home', function () {
     return view('home');
 });
 
+/*get function displays in the url the return view is the blade name */
 Route::get('characters/Xiao', function () {
     return view('characters.xiao');
 });
