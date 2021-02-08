@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('home', function () {
     return view('home');
 });
+
+Route::get('characters/Xiao', function () {
+    return view('characters.xiao');
+});
