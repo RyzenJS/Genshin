@@ -56,14 +56,15 @@
       </div>
     </div>
   </nav>
-
+  
 <main class="bg-gradient-to-r from-black to-gray-900">
+
   <div class="flex flex-row center justify-center">
     <div class="grid grid-cols-6 md:grid-rows-6 gap-5 mt-20">
 
       <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
-              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
+              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png" class="animate-pulse" md:bg-left-top width="30" height="30" class="character-type" alt="Anemo">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Xiao.png" alt="Xiao"> <!--class="transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110"-->
                 <h4 class="text-center">Xiao</h4>
             </a>
@@ -305,6 +306,6 @@
     </div>
   </main>
 
-
+  
 </body>
 </html>
