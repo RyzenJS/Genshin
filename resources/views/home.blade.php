@@ -98,7 +98,7 @@
             <a href="#">
                 <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
                 <img src="https://rerollcdn.com/GENSHIN/Characters/Bennett.png" alt="Bennet">
-                <h4 class="text-center">Bennet</h4>
+                <h4 class="text-center">Bennett</h4>
             </a>
         </div>
 
