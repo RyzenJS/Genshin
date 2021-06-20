@@ -25,3 +25,6 @@ Route::get('home', function () {
 Route::get('characters/Xiao', function () {
     return view('characters.xiao');
 });
+
+Route::view('characters/amber', 'characters.amber');
+Route::view('characters/xiao', 'characters.xiao');

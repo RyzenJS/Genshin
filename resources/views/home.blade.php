@@ -5,7 +5,7 @@
 <main class="bg-gradient-to-r from-black to-gray-900">
 
   <div class="flex flex-row center justify-center">
-    <div class="grid grid-cols-6 md:grid-rows-6 gap-5 mt-20">
+    <div class="grid grid-cols-10 md:grid-rows-6 gap-5 mt-20">
 
       <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
             <a href="#">
@@ -244,6 +244,38 @@
               <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
               <img src="https://rerollcdn.com/GENSHIN/Characters/Ganyu.png" alt="Ganyu">
               <h4 class="text-center">Ganyu</h4>
+          </a>
+        </div>
+
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
+          <a href="#">
+              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
+              <img src="https://rerollcdn.com/GENSHIN/Characters/Eula.png" alt="Eula">
+              <h4 class="text-center">Eula</h4>
+          </a>
+        </div>
+
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
+          <a href="#">
+              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
+              <img src="https://rerollcdn.com/GENSHIN/Characters/Hu Tao.png" alt="HuTao">
+              <h4 class="text-center">Hu Tao</h4>
+          </a>
+        </div>
+
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
+          <a href="#">
+              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png" md:bg-left-top width="30" height="30" class="character-type" alt="Cryo">
+              <img src="https://rerollcdn.com/GENSHIN/Characters/Rosaria.png" alt="Rosaria">
+              <h4 class="text-center">Rosaria</h4>
+          </a>
+        </div>
+
+        <div class="bg-gray-300 p-2 rounded transition duration-500 ease-in-out hover:bg-gray-600 transform hover:-translate-y-1 hover:scale-110">
+          <a href="#">
+              <img src="https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png" md:bg-left-top width="30" height="30" class="character-type" alt="Pyro">
+              <img src="https://rerollcdn.com/GENSHIN/Characters/Yanfei.png" alt="Yanfei">
+              <h4 class="text-center">Yanfei</h4>
           </a>
         </div>
 
